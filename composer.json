@@ -11,5 +11,7 @@
             "email": "devmohamed2015@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "larapack/dd": "^1.1"
+    }
 }
